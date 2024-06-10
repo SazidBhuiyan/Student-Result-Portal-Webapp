@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-<a href="/log_in.php"> <button type="button">Login Page</button> </a>
+<a href= "/log_in.php"> <button type="button">Login Page</button> </a>
 </body>
 </html>
