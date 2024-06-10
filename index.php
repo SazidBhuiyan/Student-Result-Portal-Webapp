@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    yoo
+<a href="/log_in.php"> <button type="button">Login Page</button> </a>
 </body>
 </html>
